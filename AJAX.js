@@ -25,3 +25,4 @@ function processDivNodeJSChange(){
 			document.getElementById('ajaxtext').innerHTML = xhrNode.responseText;
 	}
 }
+
